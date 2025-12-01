@@ -6,7 +6,7 @@ All steps — data loading, preprocessing, model building, training, evaluation,
 📂 Project Structure
 
 .
-├── Data/ # Dataset (tcs_data.csv)
+├── Data/ # Dataset (tcs_stock_data.csv)
 ├── Images/ # Saved graphs (Actual vs Predicted, etc.)
 ├── stock_price_prediction.ipynb # Main notebook
 ├── my_best_stock_lstm.keras # Saved Keras model
